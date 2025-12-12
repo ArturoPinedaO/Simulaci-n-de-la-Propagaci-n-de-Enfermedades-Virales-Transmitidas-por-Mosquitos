@@ -5,4 +5,13 @@ Autores:
   Ramírez Hernández Ana Teresa,
   Perez Chacha Johan Armando.
 
-Para ejecutar correctamente los scripts de este repositorio es necesario tener instalado MATLAB en cualquier versión superior o igual a MATLAB 2024a
+Este repositorio contiene tres scripts en MATLAB que simulan la transmisión de enfermedades vectoriales usando un modelo SEIR para humanos y SEI para mosquitos. Cada archivo representa un escenario distinto de infección inicial.
+
+Archivos incluidos:
+  - dengue_humanos_inf.m
+  Simulación sencilla donde la infección inicia únicamente en humanos.
+  - dengue_mosquitos_inf.m
+  Simulación donde la infección inicia únicamente en mosquitos.
+  - comparacion_mosq_hum.m
+  Compara dos escenarios: infección inicial en humanos vs en mosquitos.
+
