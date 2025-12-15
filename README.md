@@ -15,3 +15,12 @@ Archivos incluidos:
   - comparacion_mosq_hum.m
   Compara dos escenarios: infección inicial en humanos vs en mosquitos.
 
+Requerimientos:
+  - MATLAB R2018a o superior
+
+Cómo ejecutar los scripts:
+  1. Descarga o clona este repositorio.
+  2. Abre MATLAB y colócate en la carpeta del proyecto.
+  3. Modifica los parámetros iniciales desde el mismo script desde la sección de PARAMETROS.
+  4. Ejecuta el script (o scripts) de interés.
+Los resultados se mostrarán en figuras generadas automáticamente.
